@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PurnaTechTestingPod_Example' do
+  pod 'PurnaTechTestingPod', :path => '../'
+
+  target 'PurnaTechTestingPod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
