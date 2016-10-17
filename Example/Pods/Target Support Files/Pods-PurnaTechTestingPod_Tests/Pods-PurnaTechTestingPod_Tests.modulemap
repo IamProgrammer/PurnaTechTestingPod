@@ -1,0 +1,6 @@
+framework module Pods_PurnaTechTestingPod_Tests {
+  umbrella header "Pods-PurnaTechTestingPod_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

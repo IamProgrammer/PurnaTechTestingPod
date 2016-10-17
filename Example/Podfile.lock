@@ -1,0 +1,16 @@
+PODS:
+  - PurnaTechTestingPod (0.1.0)
+
+DEPENDENCIES:
+  - PurnaTechTestingPod (from `../`)
+
+EXTERNAL SOURCES:
+  PurnaTechTestingPod:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PurnaTechTestingPod: 66407de3489df248e919e9c30e227ed02aa43a9a
+
+PODFILE CHECKSUM: 6bb2798065e71d54e75342d11dff8f2b6407dc92
+
+COCOAPODS: 1.0.1

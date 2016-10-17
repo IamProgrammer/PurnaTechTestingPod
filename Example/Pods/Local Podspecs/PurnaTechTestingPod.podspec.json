@@ -1,0 +1,22 @@
+{
+  "name": "PurnaTechTestingPod",
+  "version": "0.1.0",
+  "summary": "A short description of PurnaTechTestingPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/PurnaTechTestingPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "purnachandra obulasetty": "purnachandra.obulasetty@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/PurnaTechTestingPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PurnaTechTestingPod/Classes/**/*"
+}
