@@ -8,9 +8,9 @@
 
 Pod::Spec.new do |s|
   s.name             = 'PurnaTechTestingPod'
-  s.version          = '0.1.0'
-  s.summary          = 'PurnaTechTestingPod is used for understanding of uploading pod'
-  s.description      = 'PurnaTechTestingPod is used to understanding and uploading of pod to cocoapods repository'
+  s.version          = '0.1.2'
+  s.summary          = 'PurnaTechTestingPod 0.1.2 is understanding of new tag changes.'
+  s.description      = 'Description -> PurnaTechTestingPod 0.1.2 is understanding of new tag changes.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
